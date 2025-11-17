@@ -116,8 +116,8 @@ We extend our heartfelt gratitude to all contributors who have helped make AASAM
 
 | Name | Role | GitHub Profile | Contributions |
 |------|------|----------------|---------------|
-| *Your Name Here* | Project Maintainer | [@knightswd](https://github.com/knightswd) | Initial framework, documentation |
-| *Contributor Name* | Security Researcher | [@0xEaS1](https://github.com/0xEaS1) | Threat analysis, case studies |
+| *Knight* | Project Maintainer | [@knightswd](https://github.com/knightswd) | Initial framework, documentation |
+| *0xEaS* | Security Researcher | [@0xEaS1](https://github.com/0xEaS1) | Threat analysis, case studies |
 
 
 ### How to Become a Contributor
