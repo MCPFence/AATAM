@@ -39,9 +39,9 @@ AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 ## 🚀 Quick Start
 
 ### 1. Understanding the AATAM Model
-- **[Chinese Detailed Documentation](./ZH/AATAM（AI-Centric%20Agent%20Threat%20Analysis%20Model）.md)** - Complete model introduction
-- **[English Documentation](./AATAM%20(AI-Centric%20Agent%20Threat%20Analysis%20Model).md)** - English version of the model
-- **[Entity Threat List](./实体威胁列表.md)** - Threat classification checklist
+- **[Chinese Detailed Documentation](./DOC/AATAM-ZH.md)** - Complete model introduction
+- **[English Documentation](./DOC/AATAM-EN.md)** - English version of the model
+- **[Entity Threat List](./DOC/Threat-List.md)** - Threat classification checklist
 
 ### 2. AATAM Methodology Three Steps
 
