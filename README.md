@@ -17,7 +17,7 @@ AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 
 ### 🎯 Why AATAM is Needed?
 
-- **Reality-Driven**: Based on numerous real AI security incidents and vulnerability cases
+- **Base on Real-world RedTeam test**: A summary based on our vulnerability research on agents and real-world CVEs.
 - **Traditional Model Limitations**: Traditional threat models cannot adapt to the complex scenarios of AI Agents
 - **Emerging Threats**: AI systems face new types of attacks such as indirect prompt injection and model poisoning
 - **Frequent Vulnerabilities**: Well-known AI tools like Cursor frequently expose high-risk security vulnerabilities
