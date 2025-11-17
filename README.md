@@ -1,4 +1,4 @@
-# AASAM - AI-Centric Agent Threat Analysis Model
+# AATAM - AI-Centric Agent Threat Analysis Model
 
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -13,9 +13,9 @@
 
 ## 📖 Project Overview
 
-AASAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework specifically designed for AI Agent systems. With the rapid development of AI Agent technology, traditional threat models can no longer effectively address emerging security challenges. This project proposes an AI-centric threat analysis approach to help developers and security researchers identify, analyze, and mitigate security risks in AI systems.
+AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework specifically designed for AI Agent systems. With the rapid development of AI Agent technology, traditional threat models can no longer effectively address emerging security challenges. This project proposes an AI-centric threat analysis approach to help developers and security researchers identify, analyze, and mitigate security risks in AI systems.
 
-### 🎯 Why AASAM is Needed?
+### 🎯 Why AATAM is Needed?
 
 - **Reality-Driven**: Based on numerous real AI security incidents and vulnerability cases
 - **Traditional Model Limitations**: Traditional threat models cannot adapt to the complex scenarios of AI Agents
@@ -39,7 +39,7 @@ AASAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 ## 📁 Project Structure
 
 ```
-AASAM/
+AATAM/
 ├── README.md                    # Main project documentation
 ├── 实体威胁列表.md                # Entity threat classification list
 ├── AATAM (AI-Centric Agent Threat Analysis Model).md  # English documentation
@@ -54,12 +54,12 @@ AASAM/
 
 ## 🚀 Quick Start
 
-### 1. Understanding the AASAM Model
+### 1. Understanding the AATAM Model
 - **[Chinese Detailed Documentation](./ZH/AATAM（AI-Centric%20Agent%20Threat%20Analysis%20Model）.md)** - Complete model introduction
 - **[English Documentation](./AATAM%20(AI-Centric%20Agent%20Threat%20Analysis%20Model).md)** - English version of the model
 - **[Entity Threat List](./实体威胁列表.md)** - Threat classification checklist
 
-### 2. AASAM Methodology Three Steps
+### 2. AATAM Methodology Three Steps
 
 #### Step 1: AI-Centric Data Flow Mapping
 1. Identify system entities (Model, Environment, Ecosystem, Expansion, Human)
@@ -86,7 +86,7 @@ AASAM/
 ## 💡 Practical Application Cases
 
 ### MCP (Model Context Protocol) Threat Analysis
-The project uses the currently popular MCP application as an example to demonstrate the application of the AASAM model in detail:
+The project uses the currently popular MCP application as an example to demonstrate the application of the AATAM model in detail:
 
 - **Data Flow Analysis**: Complete MCP system data flow diagram
 - **Threat Identification**: Discover 20+ specific threat scenarios
@@ -106,11 +106,11 @@ We welcome community contributions! You can participate in the following ways:
 1. **Report Issues**: Submit Issues to report discovered threats or improvement suggestions
 2. **Improve Documentation**: Help improve documentation content and translations
 3. **Case Studies**: Share new AI security incidents and threat cases
-4. **Tool Development**: Develop automated security tools based on AASAM
+4. **Tool Development**: Develop automated security tools based on AATAM
 
 ## 👥 Contributors
 
-We extend our heartfelt gratitude to all contributors who have helped make AASAM a valuable resource for the AI security community. Your contributions, whether through code, documentation, research, or feedback, are essential to the project's success.
+We extend our heartfelt gratitude to all contributors who have helped make AATAM a valuable resource for the AI security community. Your contributions, whether through code, documentation, research, or feedback, are essential to the project's success.
 
 ### Core Contributors
 
@@ -127,7 +127,7 @@ We welcome contributions from security researchers, developers, and AI enthusias
 1. **🐛 Report Security Threats**: Share new AI security incidents or threat patterns
 2. **📚 Improve Documentation**: Help with translations, examples, or clarifications
 3. **🔍 Research Contributions**: Contribute threat analysis, case studies, or security assessments
-4. **💻 Tool Development**: Build automation tools or security utilities based on AASAM
+4. **💻 Tool Development**: Build automation tools or security utilities based on AATAM
 5. **🌍 Community Engagement**: Help spread awareness and gather feedback
 
 **To be added to the contributors list:**
@@ -146,4 +146,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**AASAM Project** - Safeguarding AI Agent System Security 🛡️
+**AATAM Project** - Safeguarding AI Agent System Security 🛡️
