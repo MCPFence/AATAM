@@ -7,7 +7,7 @@
 
 **An AI-centric Agent threat analysis model that helps identify and mitigate security risks in modern AI-driven systems**
 
-[Chinese Documentation](./ZH/AATAM（AI-Centric%20Agent%20Threat%20Analysis%20Model）.md) | [English Documentation](./AATAM%20(AI-Centric%20Agent%20Threat%20Analysis%20Model).md) | [Entity Threat List](./实体威胁列表.md)
+[Chinese Documentation](./DOC/AATAM-ZH.md) | [English Documentation](./DOC/AATAM-EN.md) | [Entity Threat List](./DOC/Threat-List.md)
 
 </div>
 
@@ -35,22 +35,6 @@ AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 - **Ecosystem Layer Threats**: Supply chain attacks, MCP tool poisoning
 - **Expansion Layer Threats**: New manifestations of traditional security vulnerabilities in AI scenarios
 - **Human Layer Threats**: Social engineering attacks, misinformation propagation
-
-## 📁 Project Structure
-
-```
-AATAM/
-├── README.md                    # Main project documentation
-├── 实体威胁列表.md                # Entity threat classification list
-├── AATAM (AI-Centric Agent Threat Analysis Model).md  # English documentation
-└── ZH/                          # Chinese documentation directory
-    ├── AATAM（AI-Centric Agent Threat Analysis Model）.md
-    └── img/                     # Image resources
-        ├── dataflow.jpg
-        ├── dataflow1.jpg
-        ├── dataflow2.jpg
-        └── dataflow3.jpg
-```
 
 ## 🚀 Quick Start
 
