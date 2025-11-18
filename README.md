@@ -1,6 +1,5 @@
 # AATAM - AI-Centric Agent Threat Analysis Model
 
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-1.0.0-green.svg)
 ![Status](https://img.shields.io/badge/status-Active-brightgreen.svg)
@@ -25,11 +24,13 @@ AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 ## ✨ Core Features
 
 ### 🔍 AI-Centric Data Flow Analysis
+
 - **Bidirectional Data Flow**: Analyzes data flows with AI as both endpoint and starting point
 - **Entity Classification**: Categorizes system entities into five major types: Model, Environment, Ecosystem, Expansion, Human
 - **Threat Modeling**: Systematic threat analysis combined with STRIDE model
 
 ### 🛡️ Comprehensive Threat Coverage
+
 - **Model Layer Threats**: Jailbreak, training data poisoning, AI platform poisoning
 - **Environment Layer Threats**: Command injection, sandbox escape, unauthorized access
 - **Ecosystem Layer Threats**: Supply chain attacks, MCP tool poisoning
@@ -39,6 +40,7 @@ AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 ## 🚀 Quick Start
 
 ### 1. Understanding the AATAM Model
+
 - **[Chinese Detailed Documentation](./DOC/AATAM-ZH.md)** - Complete model introduction
 - **[English Documentation](./DOC/AATAM-EN.md)** - English version of the model
 - **[Entity Threat List](./DOC/Threat-List.md)** - Threat classification checklist
@@ -46,21 +48,24 @@ AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 ### 2. AATAM Methodology Three Steps
 
 #### Step 1: AI-Centric Data Flow Mapping
+
 1. Identify system entities (Model, Environment, Ecosystem, Expansion, Human)
 2. Draw bidirectional data flow diagrams centered on Foundation Model
 
 #### Step 2: Threat Analysis
+
 - Input threat analysis: Identify attack vectors
 - Output threat analysis: Analyze using STRIDE model
 
 #### Step 3: Risk Mitigation
+
 - Permission restriction strategies
 - User authorization mechanisms
 
 ## 📊 Threat Entity Classification
 
 | Entity Type | Main Threats |
-|-------------|--------------|
+| --- | --- |
 | **Model** | Jailbreak attacks, model backdoors, adversarial attacks |
 | **Environment** | Command injection, sandbox escape, unauthorized access |
 | **Ecosystem** | Supply chain attacks |
@@ -70,6 +75,7 @@ AATAM (AI-Centric Agent Threat Analysis Model) is a threat analysis framework sp
 ## 💡 Practical Application Cases
 
 ### MCP (Model Context Protocol) Threat Analysis
+
 The project uses the currently popular MCP application as an example to demonstrate the application of the AATAM model in detail:
 
 - **Data Flow Analysis**: Complete MCP system data flow diagram
@@ -99,10 +105,10 @@ We extend our heartfelt gratitude to all contributors who have helped make AATAM
 ### Core Contributors
 
 | Name | Role | GitHub Profile | Contributions |
-|------|------|----------------|---------------|
+| --- | --- | --- | --- |
 | *Knight* | Project Maintainer | [@knightswd](https://github.com/knightswd) | Initial framework, documentation |
+| *lcwj3* | Project Maintainer | [@lcwj3](https://github.com/lcwj3) | Initial framework, documentation |
 | *0xEaS* | Security Researcher | [@0xEaS1](https://github.com/0xEaS1) | Threat analysis, case studies |
-
 
 ### How to Become a Contributor
 
@@ -115,6 +121,7 @@ We welcome contributions from security researchers, developers, and AI enthusias
 5. **🌍 Community Engagement**: Help spread awareness and gather feedback
 
 **To be added to the contributors list:**
+
 - Make meaningful contributions to the project
 - Submit a pull request with your changes
 - Include a brief description of your contribution
