@@ -310,7 +310,7 @@
 
 ---
 
-## Expansion: A2A
+## Agent: A2A
 
 ### 4.1 A2A的Token泄露 (Token Leakage)
 
