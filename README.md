@@ -6,7 +6,7 @@
 
 **An entity-centric framework for threat modeling AI Agent applications to identify vulnerabilities, analyze attack paths, and generate actionable security checklists**
 
-[Chinese Documentation](./SKILL_CN.md) | [English Documentation](./SKILL.md) | [Vulnerability Database](./REFERENCE_VULNERABILITIES_NEW.md) | [Research Database](./REFERENCE_RESEARCH_NEW.md)
+[Chinese Documentation](./aatam/SKILL_CN.md) | [English Documentation](./aatam/SKILL.md) | [Vulnerability Database](./aatam/REFERENCE_VULNERABILITIES_NEW.md) | [Research Database](./aatam/REFERENCE_RESEARCH_NEW.md)
 
 ---
 
