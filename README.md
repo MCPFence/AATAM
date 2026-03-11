@@ -8,6 +8,8 @@
 
 [Chinese Documentation](./aatam/SKILL_CN.md) | [English Documentation](./aatam/SKILL.md) | [Vulnerability Database](./aatam/REFERENCE_VULNERABILITIES_NEW.md) | [Research Database](./aatam/REFERENCE_RESEARCH_NEW.md)
 
+**Analysis-Result:** [Openclaw threat analysis](./aatam_report/openclaw/OpenClaw_威胁建模分析报告.md)
+
 ---
 
 ## 📖 Project Overview
