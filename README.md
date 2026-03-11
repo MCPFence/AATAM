@@ -16,7 +16,7 @@ AATAM (Agent Application Threat Analysis Model) is an entity-centric framework s
 
 ### 🎯 Why AATAM is Needed?
 
-- **Based on Real-world Research**: Compiled from 75+ arXiv papers (2023-2026) with quantified attack success rates and defense effectiveness metrics
+- **Based on Real-world Research**: In academic, compiled from 75+ arXiv papers (2023-2026) with quantified attack success rates and defense effectiveness metrics.In the industrial sector, this summary is based on nearly a hundred real vulnerabilities discovered.
 - **Entity-Centric Analysis**: Unified model analyzing AI Agent, Environment, Ecosystem, Expansion, and User entities together
 - **Research-Backed Defenses**: Mitigation strategies with proven effectiveness (93–98.5% interception rates)
 - **Practical Application**: Designed for security reviews, pentests, threat modeling, and risk assessments of agentic systems
