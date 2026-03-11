@@ -83,8 +83,8 @@ Focus on inbound edges to the Agent (from User, Expansion, Ecosystem) and outbou
 - Side effects (file write, network call, state updates)
 
 Apply models:
-- STRIDE on inbound-to-Agent edges
-- HARMS on outbound-from-Agent effects to users/environment
+- Inbound-to-Agent Dependency Flow Analysis: Focuses on the security of the Agent itself, evaluating threats that may be introduced through external inputs, services, or data sources it depends on.
+- Outbound-from-Agent Impact Flow Analysis: Focuses on the impact of the Agent’s actions on the environment (users, systems, data), assessing potential harms caused by its outputs.
 
 ### Step 3: Risk Assessment
 
