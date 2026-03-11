@@ -41,7 +41,7 @@ AATAM (Agent Application Threat Analysis Model) is an entity-centric framework s
 ### 🛡️ Comprehensive Threat Coverage
 
 #### AI Agent Entity
-- **Threats**: Prompt/indirect injection, jailbreak/EoP, memory poisoning, tool abuse/RCE, secret leakage, unsafe code execution
+- **Threats**: Prompt/indirect injection, jailbreak/EoP, memory poisoning
 - **Attack Surface**: Prompts/context, tool calls, file I/O, code execution, connectors/APIs, memory state
 
 #### Environment Entity
@@ -135,7 +135,7 @@ Ecosystem contains multiple single-Agent systems that can collaborate
 ## 🔍 Entity-Centric Vulnerability Quick Reference
 
 ### AI Agent
-- Prompt/indirect injection; jailbreak/EoP; memory poisoning; tool abuse/RCE; secret leakage; unsafe code execution
+- Prompt/indirect injection; jailbreak/EoP; memory poisoning
 
 ### Environment
 - SSRF/RCE; lateral movement; state corruption and persistence; data exfiltration; quota exhaustion
