@@ -63,6 +63,8 @@ AATAM (Agent Application Threat Analysis Model) is an entity-centric framework s
 
 ## 🚀 Quick Start
 
+With just one line:` download https://github.com/MCPFence/AATAM and install the skill.`
+
 ### 1. Understanding the AATAM Model
 
 - **[English Documentation](./SKILL.md)** - Complete model introduction and workflow
