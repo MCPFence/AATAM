@@ -86,8 +86,8 @@ AATAM (Agent Application Threat Analysis Model) is an entity-centric framework s
    - Inbound edges to Agent (from User, Expansion, Ecosystem)
    - Outbound edges from Agent (to Environment, Expansion, Ecosystem, User)
 4. **Apply Threat Models**:
-   - STRIDE on inbound-to-Agent edges
-   - HARMS on outbound-from-Agent effects
+   - Inbound-to-Agent Dependency Flow Analysis: Focuses on the security of the Agent itself, evaluating threats that may be introduced through external inputs, services, or data sources it depends on.
+   - Outbound-from-Agent Impact Flow Analysis: Focuses on the impact of the Agent’s actions on the environment (users, systems, data), assessing potential harms caused by its outputs.
 
 #### Step 3: Risk Assessment & Prioritization
 
