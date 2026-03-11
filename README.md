@@ -156,40 +156,45 @@ Ecosystem contains multiple single-Agent systems that can collaborate
 ```markdown
 ## Security Assessment Checklist
 
-### 1. Entity Findings
+### 1.System architecture mapping (AATAM)
 
-#### 1.1 AI Agent
+- [ ] System architecture mapping diagram
+- [ ] Data Flow && Trust Boundaries 
+
+### 2. Entity Findings
+
+#### 2.1 AI Agent
 - [ ] Tool capability scope and allowlists in place
 - [ ] Prompt/indirect injection guards and output schema validation
 - [ ] Memory poisoning protections and context segregation
 - [ ] Jailbreak/EoP detection and blocked capabilities
 
-#### 1.2 Environment
+#### 2.2 Environment
 - [ ] Process/FS/network sandbox with egress allowlists
 - [ ] Read-only defaults; least-privilege per tool
 - [ ] Rate limits/quotas and SSRF/RCE guards
 
-#### 1.3 Ecosystem
+#### 2.3 Ecosystem
 - [ ] Version pinning/SBOM; signature checks
 - [ ] Provider allowlists and secret rotation
 - [ ] Webhook/auth hardening; schema validation
 
-#### 1.4 Expansion
+#### 2.4 Expansion
 - [ ] Signed extensions; manifest review and permissions
 - [ ] Per-extension sandbox; RAG source allowlist and sanitization
 - [ ] Content scanning/redaction for retrieved data
 
-#### 1.5 User
+#### 2.5 User
 - [ ] RBAC; approval workflow for high-risk actions
 - [ ] Structured inputs and validation; PII minimization
 - [ ] Safety filters for outputs; audit trails enabled
 
-### 2. Attack Paths
+### 3. Attack Paths
 - Path: User -> Agent -> Expansion:RAG -> Environment:FS
   - Risk: Critical (DREAD 42)
   - Mitigation: Input/retrieval sanitizers, read-only FS, approvals
 
-### 3. References
+### 4. References
 - Vulnerability category: [REF] Entity:Expansion/RAG/Indirect Injection
 - Research: arXiv IDs where applicable
 ```
